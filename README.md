@@ -13,7 +13,7 @@ Alden Hall, #209
   Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accommodated. 
 - [Schedule of Topics & Deadlines](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/schedule.md)
 - [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
- <!-- -[Lecture Materials + Video Demos](add link!!) -->
+ <!-- -[Lecture Materials + Video Demos]([add link!!](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW?usp=drive_link)) -->
 
 ## Required materials
 
