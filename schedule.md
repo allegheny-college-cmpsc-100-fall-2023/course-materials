@@ -13,7 +13,7 @@
 | Week 4 | September 18 | September 20 | September 22 | September 24 |
 | While Loops & Operators | Exercise attempt due in class | Exercise attempt due in class | Timed Assessment # 1 | Lab attempt due at 8 pm |
 | Week 5 | September 25 | September 27 | September 29 | October 1 |
-| For Loops & Lists | Exercise attempt due in class | Exercise attempt due in class | Exercise attempt due in class | Written response due before class + exercise attempt due in class |
+| For Loops & Lists | Exercise attempt due in class | Exercise attempt due in class | Written response due before class + exercise attempt due in class | Lab attempt due at 8 pm |
 | Week 6 | October 2 | October 4 | October 6 | October 8 |
 | Conditionals & Logic | Exercise attempt due in class | Written response due before class + exercise attempt due in class | SOS Day 1 | Lab attempt due at 8 pm |
 | Week 7 | October 9 | October 11 | October 13 | October 15 |

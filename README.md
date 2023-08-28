@@ -31,7 +31,7 @@ Day & Time | Content |
 | --- | --- |
 | End of lecture (11AM) each M & W & F | Quick in-class exercise assigned same session. Submit first attempt by end of class, and you will have one week to make additional attempts. |
 | Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a brief response. We will discuss the material in class, and I may call on you! |
-| 8pm each Sunday | First attempt at longer assignments begun on Wednesday will be due. You will get one second attempt at each lab. |
+| 8pm each Sunday | First attempt at lab assignments begun on Wednesday will be due. You will get one second attempt at each individual lab. (Group labs do not get multiple attempts) |
 
 Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments. We will also have dedicated time for local package installment, rather than a discussion, on October 6.
 
@@ -49,9 +49,6 @@ On five occasions, we will have a timed assessment instead of our regularly sche
 | Friday, December 1, 10 AM | 
 | Wenesday, December 6, 2:30 PM |
 
-
-
-
 ## Course Description
 
 ### Catalog Description
@@ -62,9 +59,9 @@ An introduction to the principles of computer science with an emphasis on creati
 
 This section of CMPSC-100 uses the VPython library to facilitate a creative and visual approach to learning Python. VPython is a lightweight 3D module that allows students to create three-dimensional image renderings with just a few lines of code. Because this class approaches coding from a creative angle, it emphasizes not just the how of coding but the why behind creating one project versus another. The class includes weekly discussions of assigned materials. These materials might include artworks made using code, articles about the tech industry within a larger social context, and other media that illuminate how decisions made by coders can influence the world around us. 
 
-This class focuses on applications right away, operating on the premise that the ability to write functional code as soon as possible will facilitate future abstract and theoretical understanding. In other words, we approach coding as something best learned by doing. The way computer science is presented often includes a sort of genius-mystique that excludes a lot of people. In reality, no one knows everything there is to know about computer science. In addition, programming languages are created by humans with human flaws.
+This class focuses on applications right away, operating on the premise that the ability to write functional code as soon as possible will facilitate future abstract and theoretical understanding. In other words, we approach coding as something best learned by doing. The way computer science is presented often includes a sort of genius mystique that excludes a lot of people. In reality, no one knows everything there is to know about computer science. In addition, programming languages are created by humans with human flaws.
 
-Frustration is part of it. Inside confusion lies the seeds of understanding. That feeling that your brain hurts is a sign that your brain is working. This class presents computer science as something that is indisputably powerful and useful, but no more rarefied than any other discipline. To write excellent code is a fantastic goal, but ultimately the thing that matters most is what that code does in the world. 
+Frustration is part of it. Inside confusion lie the seeds of understanding. The sensation where your brain hurts is a sign that your brain is working, just like a muscle. This class presents computer science as something that is indisputably powerful and useful, but no more rarefied than any other discipline. To write excellent code is a fantastic goal, but ultimately the thing that matters most is what that code does in the world. 
 
 ### Learning Outcomes
 
@@ -81,7 +78,82 @@ Conceptualize and execute original interactive, animated, and three-dimensionall
 
 ## Evaluation
 
+### Evaluation criteria are subject to change, but those changes should always favor the student. 
 
+This course uses specifications grading to facilitate grading transparency and allow students many chances to demonstrate proficiency in the concepts in the course. This method of grading might take some getting used to, but research has indicated it can improve learning outcomes while also reducing stress. 
+
+Rather than getting individual grades for each assignment, you receive a pass or a fail grade on a series of fifteen evaluation criteria that add up to twenty points. The following point values will correspond to the following grades: 
+
+| | | | | | | |
+|---|---|---|---|---|---|---|
+|20|<b>A</b>|19|<b>A-</b>| | | Excellent
+|18|<b>B+</b>|17|<b>B</b>| 16 | <b>B-</b>| LANGUAGE
+|15|<b>C+</b>|14|<b>C</b>| 13 | <b>C-</b>| Satiscatory
+|12|<b>D+</b>|11|<b>D</b>|  | | LANGUAGE
+|<=10 | F| | | | | Fail
+
+There are two categories of evaluation criteria: Python Fundamentals, as well as Partipation & Expression.
+
+## Participation & Expression
+
+I will evaluate you on five criteria for Participation & Expression. These categories are worth up to two points each, depending on how many you pass. If you pass all five categories, you will receive ten points for participation and expression. 
+
+If you fail even one P&E category, the highest grade you can receive in the course is a C (which corresponds to 14 points). If you pass four or fewer P&E categories, each will add two points to your score up to but not exceeding fourteen total points. 
+
+### Attendance & Participation
+
+To receive a checkmark for attendance and participation, you will have to complete each of the following:  
+
+- Attend at least 80% of lecture sessions
+- Attend at least 80% of lab sessions
+- Speak in 10 or more class sessions (this can include sharing work, asking questions, answering questions, and participating in discussions). I might call on you or ask what you think during a class session, and this will count. 
+- Share at least one lab assignment and one coding exercise with the class. Your exercise shares will be casual. Lab shares will be a bit more polished presentations. You can choose which lab you share, but we may have limited slots for each lab. 
+
+### Teamwork
+
+Teamwork is evaluated both on your contributions to group projects and your readiness to allow others to participate and learn. If another student in your group is struggling with a concept, see if you can help them understand it, rather than doing it for them. 
+
+Your teamwork grade will be based on instructor observations of your participation in group work, as well as your code contributions and reflections on group assignments. To receive a checkmark for teamwork, you should:
+
+- Participate actively in group labs. 
+- Complete reflection requirements for 80% of group labs and group projects. 
+- Contribute commits to group lab repositories, once we have set up collaborative repos later in the semester. 
+
+### In-class Exercises
+
+We will have an in-class exercise during almost every lecture session. To receive a checkmark for in-class exercises, you should:
+
+- Submit an attempt for at least 80% of in-class exercises
+- Pass at least 50% of in-class exercises
+  
+To pass an exercise, you should submit a first attempt by the initial deadline. You will have one week after that initial deadline to submit a passing attempt. If you don't submit it by the deadline, you should still attempt the exercise to get submission credit. 
+
+Exercises will be automated grading. If you think GatorGrade has made a mistake, contact me. 
+
+### Ideation & Independent Research
+
+### Reflection 
+
+## Python Fundamentals 
+
+There are ten Python fundamentals (or primitives) that will be evaluated. To receive a checkmark for a Python primitive, you must use it in a certain number of labs and timed assessments, as specified below. Primitives used in your final project will count toward lab credit. While you can use other peoples' code in your assignments, the code used toward these evaluations should be original. It should also be documented using code comments. 
+
+| Category | Lab | Timed | 
+| --- | --- | --- |
+| variables | 5 | 3 |
+| lists | 3 | 2 |
+| while loops | 3 | 2 |
+| for loops | 2 | 2 |
+| math & logic | 2 | 2 |
+| functions | 2 | 2 |
+| return | 2 | 1 |
+| dictionaries | 1 | 1 |
+| classes | 1 | 1 |
+| methods | 1 | 1 |
+
+Note that tools such as Github, git and VSCode are not explicitly evaluated; however, this use is implicit in the successful completion of other outcomes and may be evaluated in certain exercises. 
+
+As we go over these concepts, I will provide resources to give clarity on how you can incorporate them into your code. Everyone will receive ONE free point toward Python Fundamentals. 
 
 
 ## Course Policies
