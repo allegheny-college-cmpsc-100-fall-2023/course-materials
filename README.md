@@ -10,10 +10,10 @@ Alden Hall, #209
 ## Helpful Resources
 
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
-  Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accomodated. 
-- [Course Calendar](add link!!)
-- [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/)
-- [Video Demos](add link!!) 
+  Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accommodated. 
+- [Upcoming Deadlines](add link!!)
+- [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
+- <!-- [Lecture Materials + Video Demos](add link!!) -->
 
 ## Weekly Classes and Deadlines
 
@@ -33,11 +33,10 @@ Day & Time | Content |
 | Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a brief response. We will discuss the material in class, and I may call on you! |
 | 8pm each Sunday | First attempt at longer assignments begun on Wednesday will be due. You will get one second attempt at each lab. |
 
-Occassionally, one of these weekly tasts will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments.
+Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments.
 
 ### Timed Assessments
-
-On five occassions, we will have a timed assessment instead of our regularly scheduled programming. These will take place on the schedule below. This schedule is subject to change wiht plenty of notice:
+On five occasions, we will have a timed assessment instead of our regularly scheduled programming. These will take place on the schedule below. This schedule is subject to change with plenty of notice:
 
 | Timed Assessments | 
 | --- |
@@ -59,7 +58,7 @@ This section of CMPSC-100 uses the VPython library to facilitate a creative and 
 
 This class focuses on applications right away, operating on the premise that the ability to write functional code as soon as possible will facilitate future abstract and theoretical understanding. In other words, we approach coding as something best learned by doing. The way computer science is presented often includes a sort of genius-mystique that excludes a lot of people. In reality, no one knows everything there is to know about computer science. In addition, programming languages are created by humans with human flaws.
 
-Frustration is part of it. Inside confusion lies the seeds to understanding. That feeling that your brain hurts is a sign that your brain is working. This class presents computer science as something that is indisputably powerful and useful, but no more rarefied than any other discipline. To write excellent code is a fantastic goal, but ultimately the thing that matters most is what that code actually does in the world. 
+Frustration is part of it. Inside confusion lies the seeds of understanding. That feeling that your brain hurts is a sign that your brain is working. This class presents computer science as something that is indisputably powerful and useful, but no more rarefied than any other discipline. To write excellent code is a fantastic goal, but ultimately the thing that matters most is what that code does in the world. 
 
 ### Learning Outcomes
 
@@ -71,9 +70,8 @@ Students who earn a C or better in this course will achieve the following object
 
 
 #### Modes of Expression (ME)
-
-- Conceptualize and excecute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
-- Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to have clear objectives for writing code within a greater context, and the ability to reflect on success with thos eobjectives
+Conceptualize and execute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
+- Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to have clear objectives for writing code within a greater context, and the ability to reflect on success with those objectives,
 
 ## Evaluation
 
@@ -84,13 +82,13 @@ Students who earn a C or better in this course will achieve the following object
 
 ### Illness and Wellness, Mental and Physical 
 
-<b>If you think you may be sick, stay home</b> —- particularly if your symptoms suggest a contagious illness (i.e. cough, fever, sneezing, sore throat). You will ultimately lose more time if you don't allow your body the rest it needs to heal. The class as a whole will succeed better if we make the effort to protect one another from illness. If you experience respiratory symptoms and do not feel you can miss class, please wear a mask that covers your nose and mouth. I will also entertain request to record portions of class, but make no guarantees. 
+<b>If you think you may be sick, stay home</b> —- particularly if your symptoms suggest a contagious illness (i.e. cough, fever, sneezing, sore throat). You will ultimately lose more time if you don't allow your body the rest it needs to heal. The class as a whole will succeed better if we make the effort to protect one another from illness. If you experience respiratory symptoms and do not feel you can miss class, please wear a mask that covers your nose and mouth. I will also entertain s to record portions of class, but make no guarantees. 
 
 As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed. 
 
-This class is designed with a relatively lenient attendance and deadline policy, in order to accomodate the obstacles that happen in real life (see evaluation section for more details). If you are sick, experiencing an emergency, or you are struggling emotionally, communicate with me about it as early as you can, and we will strategize accordingly. As long as you attend class and do coursework when you are feeling well, there is some space built in for harder times. If you feel overwhelmed even within these structures, you can let me know that too. 
+This class is designed with a relatively lenient attendance and deadline policy, in order to accommodate the obstacles that happen in real life (see evaluation section for more details). If you are sick, experiencing an emergency, or you are struggling emotionally, communicate with me about it as early as you can, and we will strategize accordingly. As long as you attend class and do coursework when you are feeling well, there is some space built in for harder times. If you feel overwhelmed even within these structures, you can let me know that too. 
 
-If you are dealing with something contagious, or something that requires particular accomoodations, feel free to let me know. Otherwise, I don't require details. You can simply let me know that you are struggling and I will believe you. Processing certain details may lie beyond my professional expertise, and I want to do my best to serve you in my capacity as professor. 
+If you are dealing with something contagious, or something that requires particular accommodations, feel free to let me know. Otherwise, I don't require details. You can simply let me know that you are struggling and I will believe you. Processing certain details may lie beyond my professional expertise, and I want to do my best to serve you in my capacity as your professor. 
 
 Students who are in need of mental health support can access free, confidential services and resources in the Counseling and Personal Development Center (CPDC). CPDC delivers holistic mental health services to the Allegheny College student campus community through brief individual and group counseling, crisis support, outreach programming, consultation, and coordination of care. Students may request services by submitting a form on CPDC’s website (sites.allegheny.edu/counseling). Students may also connect with a mental health clinician at any time by calling Allegheny’s 24/7 line: 814-332-2105. If you or someone you know is experiencing a mental health emergency, please call the 24/7 line, Public Safety (814-332-3357), or 911. When in doubt, reach out. 
 
@@ -131,7 +129,7 @@ As an elaboration of the honor code cited above, in this class we have specific 
 
 If you borrow any section of code more than two lines long (even if you modify it), you must link to the code source in the comments and specify where the borrowed code begins and ends. This includes code found online, code from your friends, and even code from class demos. In addition, note the lines you have modified in the code. In certain cases, you may be asked to document what each piece of code does, regardless of whether you borrowed it. 
 
-If you use Copilot, you must identify the prompt in your code comments and also delineate the code that came from copilot and if/how you modified it. 
+If you use Copilot, you must identify the prompt in your code comments and also delineate the code that came from Copilot and if/how you modified it. 
 
 Borrowing code correctly is a big part of being a professional computer scientist, and so it won’t be penalized as long as the code is cited as above and doesn’t constitute more than 50% of your project.
 
@@ -143,7 +141,7 @@ If you need to miss class or reschedule a final examination due to a religious o
 to make arrangements. Please see https://sites.allegheny.edu/religiouslife/religious-holy-days/ for more details. 
 
 
-### Educational Accomodations 
+### Educational Accommodations 
 
 Students with disabilities who believe they 
 may need accommodations in this class are encouraged to contact Student Accessibility and Support Services (SASS) at (814) 332-2898. Student Accessibility 
