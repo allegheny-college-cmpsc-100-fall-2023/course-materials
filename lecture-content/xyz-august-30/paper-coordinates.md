@@ -14,7 +14,12 @@
 
 1. Follow the professors' example of drawing a box and then translating it.
 2. Chooose another (X, Y, Z) vector (any three numbers you want as long as they'll stay on the page) and write it on your paper. Translate the box a second time by this vector. 
-3. On the other side of your page, jam out! Draw whatever you want, but try to use the grid to provide some guidance. Here are some images for inspiration: 
+3. On the other side of your page, jam out! Draw whatever you want, but try to use the grid to provide some guidance. Here are some images for inspiration:
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/53b5949a-46fd-42d5-b32d-f196587cde8b)
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/e131c8bc-d0d1-4298-95d9-3f2ac991b4b9)
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/7bb6dfbf-8d8a-4ae9-a629-634b97f41388)
+
+
 
 ### Hand in both assignments to professor before the end of class!
 
