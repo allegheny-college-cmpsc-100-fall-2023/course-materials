@@ -1,36 +1,84 @@
 # Syllabus: Computational Expression, Allegheny College, Fall 2023 (CMPSC 100-02)
 
-Summary/Instructions
 
-## Resources
-
-## Professor Information 
+## Professor Contact
 
 Morgan Green <br>
 mgreen@allegheny.edu <br>
 Alden Hall, #209
 
-## Office Hours 
+## Helpful Resources
 
-You can schedule office hours with me at this link: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP
+- [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
+  Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accomodated. 
+- [Course Calendar](add link!!)
+- [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/)
+- [Video Demos](add link!!) 
 
-Please schedule a slot at least twelve hours in advance to guarantee a spot. Walk-ins will be accomodated when possible, but are not guaranteed. 
+## Weekly Classes and Deadlines
 
-Technical Leader office hours are listed here: https://www.cs.allegheny.edu/teaching/technicalleaders/
+### Classtimes
+Day & Time | Content | 
+| --- | --- |
+| Monday, 10AM - 10:50AM | Code demo + in-class exercise |
+| Wednesday, 10AM - 10:50AM | In-class exercise + lab preparation |
+| Wednesday, 2:30PM - 4:20 PM| Lab time |
+| Friday, 10AM - 10:50AM | Quick exercise, workshare, discussion |
 
-Please come to office hours prepared with particular questions related to the course material. 
-
-## Syllabus
-
-Weekly Assignment Schedule
+### Deadlines
 
 | Deadline | Description |
 | --- | --- |
-| End of lecture (11AM) each M & W | Quick in-class exercise assigned same session. Deadline will be extended into evening if appropriate. |
+| End of lecture (11AM) each M & W & F | Quick in-class exercise assigned same session. Submit first attempt by end of class, and you will have one week to make additional attempts. |
 | Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a brief response. We will discuss the material in class, and I may call on you! |
-| 8pm each Sunday | Longer assignments begun on Wednesday will be due. |
+| 8pm each Sunday | First attempt at longer assignments begun on Wednesday will be due. You will get one second attempt at each lab. |
 
-## Schedule of Topics
+Occassionally, one of these weekly tasts will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments.
+
+### Timed Assessments
+
+On five occassions, we will have a timed assessment instead of our regularly scheduled programming. These will take place on the schedule below. This schedule is subject to change wiht plenty of notice:
+
+| Timed Assessments | 
+| --- |
+| Friday, September 22, 9 AM |
+| 
+
+
+
+
+## Course Description
+
+### Catalog Description
+
+An introduction to the principles of computer science with an emphasis on creative expression through the medium of a programming language. Participating in hands-on activities that often require teamwork, students learn the computational structures needed to solve problems and produce computational artifacts which address these problems in real-world contexts. Students also learn how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers. Additionally, the introduction includes an overview of the discipline of computer science and computational thinking. During a weekly laboratory session students use industry-grade technology to complete projects, reporting on their results through both written documents and oral presentations. Students are invited to use their own departmentally approved laptop in this course; a limited number of laptops are available for use during class and lab sessions. Prerequisite: None. Distribution Requirements: ME, SP.
+
+### Additional Description
+
+This section of CMPSC-100 uses the VPython library to facilitate a creative and visual approach to learning Python. VPython is a lightweight 3D module that allows students to create three-dimensional image renderings with just a few lines of code. Because this class approaches coding from a creative angle, it emphasizes not just the how of coding but the why behind creating one project versus another. The class includes weekly discussions of assigned materials. These materials might include artworks made using code, articles about the tech industry within a larger social context, and other media that illuminate how decisions made by coders can influence the world around us. 
+
+This class focuses on applications right away, operating on the premise that the ability to write functional code as soon as possible will facilitate future abstract and theoretical understanding. In other words, we approach coding as something best learned by doing. The way computer science is presented often includes a sort of genius-mystique that excludes a lot of people. In reality, no one knows everything there is to know about computer science. In addition, programming languages are created by humans with human flaws.
+
+Frustration is part of it. Inside confusion lies the seeds to understanding. That feeling that your brain hurts is a sign that your brain is working. This class presents computer science as something that is indisputably powerful and useful, but no more rarefied than any other discipline. To write excellent code is a fantastic goal, but ultimately the thing that matters most is what that code actually does in the world. 
+
+### Learning Outcomes
+
+Students who earn a C or better in this course will achieve the following objectives: 
+
+#### Scientific Process (SP)
+- Apply foundational Python language concepts to writing programs that generate visual and text outputs
+- Use VSCode, git, and GitHub to develop, version, and release code consistent with industry-standard practices
+
+
+#### Modes of Expression (ME)
+
+- Conceptualize and excecute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
+- Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to have clear objectives for writing code within a greater context, and the ability to reflect on success with thos eobjectives
+
+## Evaluation
+
+
+
 
 ## Course Policies
 
