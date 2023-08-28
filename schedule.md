@@ -5,7 +5,7 @@
 | | Monday | Wednesday | Friday | Sunday |
 | ---| ---| ---| ---| ---|
 | Week 1 | August 28 | August 30 | September 1 | September 3 |
-| X, Y, Z Coordinates | NO CLASS | Turn in XYZ Paper Exercise in class | Complete Tom Gauld discussion + read syllabus and come with questions before class | No lab due |
+| X, Y, Z Coordinates | NO CLASS | Turn in XYZ Paper Exercise in class | [Complete Tom Gauld discussion](https://classroom.github.com/a/-_nofINr) + read syllabus and come with questions before class | No lab due |
 | Week 2 | September 4 | September 6 | September 8 | September 10 |
 | Intro to Vpython | Exercise attempt due in class | Exercise attempt due in class | Written response due before class + exercise attempt due in class | Lab attempt due at 8 pm |
 | Week 3 | September 11 | September 13 | September 15 | September 17 |
