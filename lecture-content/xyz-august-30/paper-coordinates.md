@@ -11,8 +11,11 @@
 
 ## 3D Exercise
 ### Note that 3D rendering is much more challenging than 2D. This is partly because 3D graphics can be seen from infinite possible <em>perspectives</em>, but in our static renderings we have to choose just one. I will give you credit for this assignment as long as I see a sincere effort. 
+
 1. Follow the professors' example of drawing a box and then translating it.
 2. Chooose another (X, Y, Z) vector (any three numbers you want as long as they'll stay on the page) and write it on your paper. Translate the box a second time by this vector. 
 3. On the other side of your page, jam out! Draw whatever you want, but try to use the grid to provide some guidance. Here are some images for inspiration: 
 
 ### Hand in both assignments to professor before the end of class!
+
+<!-- paper source: https://github.com/kacpertopol/printable_paper/blob/main/printable_paper/isovertical_lines_6mm_largemargin_.pdf >
