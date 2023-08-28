@@ -1,4 +1,7 @@
-#Schedule of Topics & Deadlines
+# Schedule of Topics & Deadlines
+
+## Schedule is subject to change! 
+
 | | Monday | Wednesday | Friday | Sunday |
 | ---| ---| ---| ---| ---|
 | Week 1 | August 28 | August 30 | September 1 | September 3 |

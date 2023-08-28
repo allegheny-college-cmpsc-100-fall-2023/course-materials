@@ -11,9 +11,9 @@ Alden Hall, #209
 
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
   Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accommodated. 
-- [Upcoming Deadlines](add link!!)
+- [Schedule of Topics & Deadlines](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/schedule.md)
 - [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
-- <!-- [Lecture Materials + Video Demos](add link!!) -->
+ <!-- -[Lecture Materials + Video Demos](add link!!) -->
 
 ## Weekly Classes and Deadlines
 
@@ -33,9 +33,12 @@ Day & Time | Content |
 | Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a brief response. We will discuss the material in class, and I may call on you! |
 | 8pm each Sunday | First attempt at longer assignments begun on Wednesday will be due. You will get one second attempt at each lab. |
 
-Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments.
+Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments. We will also have dedicated time for local package installment, rather than a discussion, on October 6.
+
+Find a detailed schedule of topics and deadlines with links to upcoming assignments [here](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/schedule.md). 
 
 ### Timed Assessments
+
 On five occasions, we will have a timed assessment instead of our regularly scheduled programming. These will take place on the schedule below. This schedule is subject to change with plenty of notice:
 
 | Timed Assessments | 
@@ -85,7 +88,7 @@ Conceptualize and execute original interactive, animated, and three-dimensionall
 
 ### Illness and Wellness, Mental and Physical 
 
-<b>If you think you may be sick, stay home</b> —- particularly if your symptoms suggest a contagious illness (i.e. cough, fever, sneezing, sore throat). You will ultimately lose more time if you don't allow your body the rest it needs to heal. The class as a whole will succeed better if we make the effort to protect one another from illness. If you experience respiratory symptoms and do not feel you can miss class, please wear a mask that covers your nose and mouth. I will also entertain s to record portions of class, but make no guarantees. 
+<b>If you think you may be sick, stay home</b> —- particularly if your symptoms suggest a contagious illness (i.e. cough, fever, sneezing, sore throat). You will ultimately lose more time if you don't allow your body the rest it needs to heal. The class as a whole will succeed better if we make the effort to protect one another from illness. If you experience respiratory symptoms and do not feel you can miss class, please wear a mask that covers your nose and mouth. I will also entertain requests to record portions of class, but make no guarantees. 
 
 As a college student, there may be times when personal stressors, struggles, and/or traumas interfere with your academic performance and/or negatively impact your daily life. Allegheny College recognizes that mental health is an important piece of the holistic human experience, and that this experience influences your academic success. We encourage students to prioritize their mental well-being by seeking services and support as needed. 
 
