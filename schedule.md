@@ -31,9 +31,9 @@
 | Week 13 | November 20 | November 22 | November 24 | November 26 |
 | Project Work | Exercise attempt due in class | NO CLASS | NO CLASS | No lab due |
 | Week 14 | November 27 | November 29 | December 1 | December 3 |
-| Project Work | Exercise attempt due in class | Exercise attempt due in class | Timed Assessment #4 | Lab attempt due at 8 pm |
+| Project Work | Exercise attempt due in class | Exercise attempt due in class | Timed Assessment #4 | |
 | Week 15 | December 4 | December 6 | December 8 | December 10 |
-| Project Work | Exercise attempt due in class | Timed Assessment #5 | Written response due before class + exercise attempt due in class | Lab attempt due at 8 pm |
+| Project Work | Exercise attempt due in class | Timed Assessment #5 | Written response due before class + exercise attempt due in class | |
 | Week 16 | December 11 | December 13 | December 15 | December 17 |
 | Project Work | Exercise attempt due in class | NO CLASS | NO CLASS | NO CLASS |
 | Exams Week | December 18 | | | |

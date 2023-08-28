@@ -15,6 +15,16 @@ Alden Hall, #209
 - [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
  <!-- -[Lecture Materials + Video Demos](add link!!) -->
 
+## Required materials
+
+### Textbook(s)
+
+There are no textbooks for this course. Any texts or articles used will be available online or distributed in class. 
+
+### Platforms
+
+This course relies on the GitHub, Discord, and Trinket. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
+
 ## Weekly Classes and Deadlines
 
 ### Classtimes
@@ -128,7 +138,7 @@ We will have an in-class exercise during almost every lecture session. To receiv
   
 To pass an exercise, you should submit a first attempt by the initial deadline. You will have one week after that initial deadline to submit a passing attempt. If you don't submit it by the deadline, you should still attempt the exercise to get submission credit. 
 
-Exercises will be automated grading. If you think GatorGrade has made a mistake, contact me. 
+Exercises will be automatically graded using GatorGrade. If you think GatorGrade has made a mistake, contact me. 
 
 ### Ideation & Independent Research
 
@@ -153,8 +163,13 @@ There are ten Python fundamentals (or primitives) that will be evaluated. To rec
 
 Note that tools such as Github, git and VSCode are not explicitly evaluated; however, this use is implicit in the successful completion of other outcomes and may be evaluated in certain exercises. 
 
-As we go over these concepts, I will provide resources to give clarity on how you can incorporate them into your code. Everyone will receive ONE free point toward Python Fundamentals. 
+As we go over these concepts, I will provide resources to give clarity on how you can incorporate them into your code. Everyone will receive ONE free point toward Python Fundamentals.
 
+### Automated Grading
+
+Note that most assignments in this course will be at least partly auto-graded using our in-house GatorGrade software. With in-class exercises, you can consider the GatorGrade results more or less accurate, with exceptions where the GatorGrade makes a mistake or where academic dishonesty is suspected. 
+
+Labs, projects, discussions, and timed assessments may also be automatically graded, but in most cases the GatorGrade assessment should be considered preliminary. Especially in assignments that include written work, wait for the professor's evaluation before considering the grade solidified. 
 
 ## Course Policies
 
@@ -226,4 +241,6 @@ may need accommodations in this class are encouraged to contact Student Accessib
 and Support Services is located in Pelletier Library. Please do this as soon as 
 possible to ensure that such accommodations are implemented in a timely fashion. Please see https://sites.allegheny.edu/studentaccessibility/ for 
 more details. 
+
+
 
