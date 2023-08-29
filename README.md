@@ -15,16 +15,6 @@ Alden Hall, #209
 - [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
  <!-- -[Lecture Materials + Video Demos]([add link!!](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW?usp=drive_link)) -->
 
-## Required materials
-
-### Textbook(s)
-
-There are no textbooks for this course. Any texts or articles used will be available online or distributed in class. 
-
-### Platforms
-
-This course relies on the GitHub, Discord, and Trinket. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
-
 ## Weekly Classes and Deadlines
 
 ### Classtimes
@@ -84,7 +74,17 @@ Students who earn a C or better in this course will achieve the following object
 
 #### Modes of Expression (ME)
 Conceptualize and execute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
-- Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to have clear objectives for writing code within a greater context, and the ability to reflect on success with those objectives,
+- Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to have clear objectives for writing code within a greater context, and the ability to reflect on success with those objectives. 
+
+## Required materials
+
+### Textbook(s)
+
+There are no textbooks for this course. Any texts or articles used will be available online or distributed in class. 
+
+### Platforms
+
+This course relies on the GitHub, Discord, and Trinket. Your work will be assigned and evaluated using these platforms and official course communication will take place through them. You are expected to sign up for accounts and remain active on these platforms throughout the semester.
 
 ## Evaluation
 
