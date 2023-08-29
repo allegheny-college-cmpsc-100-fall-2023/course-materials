@@ -73,7 +73,7 @@ Students who earn a C or better in this course will achieve the following object
 
 
 #### Modes of Expression (ME)
-Conceptualize and execute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
+- Conceptualize and execute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
 - Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to have clear objectives for writing code within a greater context, and the ability to reflect on success with those objectives. 
 
 ## Required materials
