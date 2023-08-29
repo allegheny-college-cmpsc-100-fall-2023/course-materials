@@ -144,7 +144,7 @@ Exercises will be automatically graded using GatorGrade. If you think GatorGrade
 
 To receive a checkmark for this section, you should:
 
-- Successfully complete the ideation objectives for three individual lab assignments, as well as your final project. These objectives might include generating an idea for a project using well-documented research, personal reflection, consideration of context, and brainstorming. You should show, in at least several projects, a clear reason for making what you are making.  
+- Successfully complete the ideation objectives for at least three individual lab assignments, as well as your final project. These objectives might include generating an idea for a project using well-documented research, personal reflection, consideration of context, and brainstorming. You should show, in at least several projects, a clear reason for making what you are making.  
 - Show ability to research code independently in two or more individual labs or projects. To receive independent research credit, be sure to document the part of your code that uses your research with "#INDEPENDENT RESEARCH" in your code comments. You should additionally include information on sources you cited and how you used them in your comments. More details will be provided in class.  
 - Use markdown and code comments appropriately in your writing and documentation. 
 
