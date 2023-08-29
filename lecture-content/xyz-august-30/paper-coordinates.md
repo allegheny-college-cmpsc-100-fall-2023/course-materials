@@ -12,7 +12,6 @@
 ## 3D Exercise
 ### Note that 3D rendering is much more challenging than 2D. This is partly because 3D graphics can be seen from infinite possible <em>perspectives</em>, but in our static renderings we have to choose just one. I will give you credit for this assignment as long as I see a sincere effort. 
 
-<<<<<<< HEAD
 1. Follow the professors' example of drawing a box and then translating it.
 2. Chooose another (X, Y, Z) vector (any three numbers you want as long as they'll stay on the page) and write it on your paper. Translate the box a second time by this vector. 
 3. On the other side of your page, jam out! Draw whatever you want, but try to use the grid to provide some guidance. Here are some images for inspiration:
@@ -23,12 +22,11 @@
 ![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/b91f49eb-9c41-416e-94b2-7065d072a2ac)
 <br>
 
-=======
 1. Write your name at the top of the paper
 2. Follow the professors' example of drawing a box and then translating it.
 3. Chooose another (X, Y, Z) vector (any three numbers you want as long as they'll stay on the page) and write it on your paper. Translate the box a second time by this vector. 
 4. On the other side of your page, jam out! Draw whatever you want, but try to use the grid to provide some guidance. Here are some images for inspiration: 
->>>>>>> fd28696 (write your name)
+
 
 ### Hand in both papers to professor before the end of class!
 
