@@ -25,5 +25,5 @@
 
 ### Hand in both assignments to professor before the end of class!
 
-Image sources: [Autodesk Forums](https://forums.autodesk.com/t5/inventor-forum/show-isometric-grid-in-drawings/td-p/6857565), [Lucid Brain Drain](https://www.flickr.com/photos/izzyiz/5791518835), [Technical Illustrators](https://technicalillustrators.org/2011/02/how-to-create-an-isometric-grid-in-adobe-illustrator/), [Herbert Publishing](https://herbertpublishing.com/project/learn-to-draw-3d-isometric-stuff/)
+Image sources: [Autodesk Forums](https://forums.autodesk.com/t5/inventor-forum/show-isometric-grid-in-drawings/td-p/6857565), [Lucid Brain Drain](https://www.flickr.com/photos/izzyiz/5791518835), [Herbert Publishing](https://herbertpublishing.com/project/learn-to-draw-3d-isometric-stuff/), [Technical Illustrators](https://technicalillustrators.org/2011/02/how-to-create-an-isometric-grid-in-adobe-illustrator/)
 <!-- paper source: https://github.com/kacpertopol/printable_paper/blob/main/printable_paper/isovertical_lines_6mm_largemargin_.pdf >
