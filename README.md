@@ -94,15 +94,15 @@ This course uses specifications grading to facilitate grading transparency and a
 
 Rather than getting individual grades for each assignment, you receive a pass or a fail grade on a series of fifteen evaluation criteria that add up to twenty points. The following point values will correspond to the following grades: 
 
-| | | | | | | |
-|---|---|---|---|---|---|---|
-|20|<b>A</b>|19|<b>A-</b>| | | Excellent
-|18|<b>B+</b>|17|<b>B</b>| 16 | <b>B-</b>| LANGUAGE
-|15|<b>C+</b>|14|<b>C</b>| 13 | <b>C-</b>| Satiscatory
-|12|<b>D+</b>|11|<b>D</b>|  | | LANGUAGE
-|<=10 | F| | | | | Fail
+| | | | | | | 
+|---|---|---|---|---|---|
+|20|<b>A</b>|19|<b>A-</b>| | 
+|18|<b>B+</b>|17|<b>B</b>| 16 | <b>B-</b>| 
+|15|<b>C+</b>|14|<b>C</b>| 13 | <b>C-</b>| 
+|12|<b>D+</b>|11|<b>D</b>|  | | 
+|<=10 | F| | | | | 
 
-There are two categories of evaluation criteria: Python Fundamentals, as well as Partipation & Expression.
+Note that a C grade is considered satisfactory and will allow advancement into higher-level Computer & Information Science Courses. There are two categories of evaluation criteria: Python Fundamentals, as well as Partipation & Expression.
 
 ## Participation & Expression
 
