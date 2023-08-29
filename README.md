@@ -256,4 +256,20 @@ possible to ensure that such accommodations are implemented in a timely fashion.
 more details. 
 
 
+## Signature
 
+While I understand that this syllabus is a living document that may change, I also agree to the core unchanging principles outlined above when it comes to course conduct, academic integrity, and evaluation. 
+
+
+________________________________
+Print name above
+
+
+
+________________________________
+Signature
+
+
+
+________________________________
+Date
