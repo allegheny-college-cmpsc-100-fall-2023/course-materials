@@ -31,7 +31,7 @@ Day & Time | Content |
 | --- | --- |
 | End of lecture (11AM) each M & W & F | Quick in-class exercise assigned same session. Submit first attempt by end of class, and you will have one week to make additional attempts. |
 | Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a response as instructed. We will discuss the material in class, and I may call on you! |
-| 8pm each Sunday | First attempt at lab assignments begun on Wednesday will be due. You will get one second attempt at each individual lab. (Group labs do not get multiple attempts) |
+| 8pm every other Sunday | First attempt at lab assignments begun the previous Wednesday will be due. You will get one second attempt at each individual lab. (Group labs do not get multiple attempts) |
 
 Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments. We will also have dedicated time for local package installment, rather than a discussion, on October 6.
 
@@ -121,12 +121,12 @@ To receive a checkmark for attendance and participation, you will have to comple
 
 ### Teamwork
 
-Teamwork is evaluated both on your contributions to group projects and your readiness to allow others to participate and learn. If another student in your group is struggling with a concept, see if you can help them understand it, rather than doing it for them. 
+Teamwork is evaluated both on your contributions to group labs and your readiness to allow others to participate and learn. If another student in your group is struggling with a concept, see if you can help them understand it, rather than doing it for them. 
 
 Your teamwork grade will be based on instructor observations of your participation in group work, as well as your code contributions and reflections on group assignments. To receive a checkmark for teamwork, you should:
 
 - Participate actively in group labs. 
-- Complete reflection requirements for 80% of group labs and group projects. 
+- Complete reflection requirements for 80% of group labs. 
 - Contribute commits to group lab repositories, once we have set up collaborative repos later in the semester. 
 
 ### In-class Exercises
@@ -152,18 +152,20 @@ To receive a checkmark for this section, you should:
 
 To receive a checkmark for this section, you should:
 
-- Complete reflection objectives for at least 80% of lab and project assignments, including group and individual project assignments. Reflection objectives might include reflection on coding goals, conceptual goals, aesthetic goals and teamwork. 
+- Complete reflection objectives for at least 80% of lab and project assignments, and for your final project. Reflection objectives might include reflection on coding goals, conceptual goals, aesthetic goals and teamwork. 
 - Successfully complete at least 80% of weekly discussion assignments. 
 
 ## Python Fundamentals 
 
 There are ten Python fundamentals (or primitives) that will be evaluated. To receive a checkmark for a Python primitive, you must use it in a certain number of labs and timed assessments, as specified below. Primitives used in your final project will count toward lab credit. While you can use other peoples' code in your assignments, the code used toward these evaluations should be original. It should also be documented using code comments. 
 
+Techniques used in group lab and project assignments can count toward your lab Python credits if you include a discussion that shows comprehension of these techniques in the lab reflection. 
+
 | Category | Lab | Timed | 
 | --- | --- | --- |
-| variables | 5 | 3 |
-| lists | 3 | 2 |
-| while loops | 3 | 2 |
+| variables | 3 | 3 |
+| lists | 2 | 2 |
+| while loops | 2 | 2 |
 | for loops | 2 | 2 |
 | math & logic | 2 | 2 |
 | functions | 2 | 2 |
