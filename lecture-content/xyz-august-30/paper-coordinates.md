@@ -15,12 +15,15 @@
 1. Follow the professors' example of drawing a box and then translating it.
 2. Chooose another (X, Y, Z) vector (any three numbers you want as long as they'll stay on the page) and write it on your paper. Translate the box a second time by this vector. 
 3. On the other side of your page, jam out! Draw whatever you want, but try to use the grid to provide some guidance. Here are some images for inspiration:
-![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/53b5949a-46fd-42d5-b32d-f196587cde8b)
-![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/e131c8bc-d0d1-4298-95d9-3f2ac991b4b9)
-![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/7bb6dfbf-8d8a-4ae9-a629-634b97f41388)
-
+   
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/53b5949a-46fd-42d5-b32d-f196587cde8b) <br>
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/7bb6dfbf-8d8a-4ae9-a629-634b97f41388) <br>
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/881e34c2-aec6-4326-b353-a9aa1449b5ad) <br>
+![image](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/b91f49eb-9c41-416e-94b2-7065d072a2ac)
+<br>
 
 
 ### Hand in both assignments to professor before the end of class!
 
+Image sources: [Autodesk Forums](https://forums.autodesk.com/t5/inventor-forum/show-isometric-grid-in-drawings/td-p/6857565), Technical Illustrators(https://technicalillustrators.org/2011/02/how-to-create-an-isometric-grid-in-adobe-illustrator/), [Herbert Publishing](https://herbertpublishing.com/project/learn-to-draw-3d-isometric-stuff/)
 <!-- paper source: https://github.com/kacpertopol/printable_paper/blob/main/printable_paper/isovertical_lines_6mm_largemargin_.pdf >
