@@ -30,7 +30,7 @@ Day & Time | Content |
 | Deadline | Description |
 | --- | --- |
 | End of lecture (11AM) each M & W & F | Quick in-class exercise assigned same session. Submit first attempt by end of class, and you will have one week to make additional attempts. |
-| Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a brief response. We will discuss the material in class, and I may call on you! |
+| Start of lecture (10AM) each Friday | Read/listen/watch/play weekly discussion material, and post a response as instructed. We will discuss the material in class, and I may call on you! |
 | 8pm each Sunday | First attempt at lab assignments begun on Wednesday will be due. You will get one second attempt at each individual lab. (Group labs do not get multiple attempts) |
 
 Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments. We will also have dedicated time for local package installment, rather than a discussion, on October 6.
