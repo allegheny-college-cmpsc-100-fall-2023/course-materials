@@ -261,15 +261,15 @@ more details.
 While I understand that this syllabus is a living document that may change, I also agree to the core unchanging principles outlined above when it comes to course conduct, academic integrity, and evaluation. 
 
 
-________________________________
-Print name above
+
+
+Print name 
 
 
 
-________________________________
+
 Signature
 
 
 
-________________________________
 Date
