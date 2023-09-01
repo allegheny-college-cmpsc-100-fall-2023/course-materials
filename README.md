@@ -127,7 +127,7 @@ To receive a checkmark for attendance and participation, you will have to comple
 - Attend at least 80% of lecture sessions
 - Attend at least 80% of lab sessions
 - Speak in 10 or more class sessions (this can include sharing work, asking questions, answering questions, and participating in discussions). I might call on you or ask what you think during a class session, and this will count. 
-- Share at least one lab assignment and one coding exercise with the class. Your exercise shares will be casual. Lab shares will be a bit more polished presentations. You can choose which lab you share, but we may have limited slots for each lab. 
+- Share at least one lab assignment and one coding exercise with the class. Your exercise shares will be casual. Lab shares will be a bit more polished. You can choose which lab you share, but we may have limited slots for each lab. 
 
 ### Teamwork
 
@@ -154,7 +154,7 @@ Exercises will be automatically graded using GatorGrade. If you think GatorGrade
 
 To receive a checkmark for this section, you should:
 
-- Successfully complete the ideation objectives for at least three individual lab assignments, as well as your final project. These objectives might include generating an idea for a project using well-documented research, personal reflection, consideration of context, and brainstorming. You should show, in at least several projects, a clear reason for making what you are making.  
+- Successfully complete the ideation objectives for at least two individual lab assignments, as well as your final project. These objectives might include generating an idea for a project using well-documented research, personal reflection, consideration of context, and brainstorming. You should show, in at least several projects, a clear reason for making what you are making.  
 - Show ability to research code independently in two or more individual labs or projects. To receive independent research credit, be sure to document the part of your code that uses your research with "#INDEPENDENT RESEARCH" in your code comments. You should additionally include information on sources you cited and how you used them in your comments. More details will be provided in class.  
 - Use markdown and code comments appropriately in your writing and documentation. 
 
