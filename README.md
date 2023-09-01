@@ -7,6 +7,8 @@ Morgan Green <br>
 mgreen@allegheny.edu <br>
 Alden Hall, #209
 
+I respond to emails within 1 business day. 
+
 ## Helpful Resources
 
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
