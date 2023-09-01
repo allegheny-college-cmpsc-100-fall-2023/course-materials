@@ -7,14 +7,6 @@ Morgan Green <br>
 mgreen@allegheny.edu <br>
 Alden Hall, #209
 
-## Helpful Resources
-
-- [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
-  Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accommodated. 
-- [Schedule of Topics & Deadlines](https://docs.google.com/spreadsheets/d/13tx5ODNznegKU2hTxrae9C99YGDs64Q_XN8KiajFftg/edit?usp=sharing)
-- [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
- <!-- -[Lecture Materials + Video Demos]([add link!!](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW?usp=drive_link)) -->
-
 ## Weekly Classes and Deadlines
 
 ### Classtimes
@@ -117,7 +109,7 @@ To receive a checkmark for attendance and participation, you will have to comple
 - Attend at least 80% of lecture sessions
 - Attend at least 80% of lab sessions
 - Speak in 10 or more class sessions (this can include sharing work, asking questions, answering questions, and participating in discussions). I might call on you or ask what you think during a class session, and this will count. 
-- Share at least one lab assignment and one coding exercise with the class. Your exercise shares will be casual. Lab shares will be a bit more polished presentations. You can choose which lab you share, but we may have limited slots for each lab. 
+- Share at least one lab assignment and one coding exercise with the class. Your exercise shares will be casual. Lab shares will be a bit more polished. You can choose which lab you share, but we may have limited slots for each lab. 
 
 ### Teamwork
 
@@ -144,7 +136,7 @@ Exercises will be automatically graded using GatorGrade. If you think GatorGrade
 
 To receive a checkmark for this section, you should:
 
-- Successfully complete the ideation objectives for at least three individual lab assignments, as well as your final project. These objectives might include generating an idea for a project using well-documented research, personal reflection, consideration of context, and brainstorming. You should show, in at least several projects, a clear reason for making what you are making.  
+- Successfully complete the ideation objectives for at least two individual lab assignments, as well as your final project. These objectives might include generating an idea for a project using well-documented research, personal reflection, consideration of context, and brainstorming. You should show, in at least several projects, a clear reason for making what you are making.  
 - Show ability to research code independently in two or more individual labs or projects. To receive independent research credit, be sure to document the part of your code that uses your research with "#INDEPENDENT RESEARCH" in your code comments. You should additionally include information on sources you cited and how you used them in your comments. More details will be provided in class.  
 - Use markdown and code comments appropriately in your writing and documentation. 
 
@@ -157,7 +149,7 @@ To receive a checkmark for this section, you should:
 
 ## Python Fundamentals 
 
-There are ten Python fundamentals (or primitives) that will be evaluated. To receive a checkmark for a Python primitive, you must use it in a certain number of labs and timed assessments, as specified below. Primitives used in your final project will count toward lab credit. While you can use other peoples' code in your assignments, the code used toward these evaluations should be original. It should also be documented using code comments. 
+There are ten Python fundamentals (or primitives) that will be evaluated. To receive a checkmark for a Python primitive, you must use it in a certain number of labs and timed assessments, as specified below. Primitives used in your final project will count toward lab credit. While you can use cited and borrowed code in your assignments, the code used toward these evaluations should be original. It should also be documented using code comments. 
 
 Techniques used in group lab and project assignments can count toward your lab Python credits if you include a discussion that shows comprehension of these techniques in the lab reflection. 
 
@@ -180,7 +172,7 @@ As we go over these concepts, I will provide resources to give clarity on how yo
 
 ### Automated Grading
 
-Note that most assignments in this course will be at least partly auto-graded using our in-house GatorGrade software. With in-class exercises, you can consider the GatorGrade results more or less accurate, with exceptions where the GatorGrade makes a mistake or where academic dishonesty is suspected. 
+Note that most assignments in this course will be at least partly auto-graded using our in-house GatorGrade software. With in-class exercises, you can consider the GatorGrade results more or less accurate, with exceptions where GatorGrade makes a mistake or where academic dishonesty is suspected. 
 
 Labs, projects, discussions, and timed assessments may also be automatically graded, but in most cases the GatorGrade assessment should be considered preliminary. Especially in assignments that include written work, wait for the professor's evaluation before considering the grade solidified. 
 
@@ -200,7 +192,7 @@ Students who are in need of mental health support can access free, confidential 
 
 ###  Assistance with course concepts 
 
-Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor and technical leaders. Students who need the course instructor’s or TL's assistance can schedule an appointment through their Office Hour Calendar near the top of this page. 
+Students who struggle to understand knowledge and skills defined in this course are encouraged to seek assistance from the course instructor and technical leaders. Students who need the course instructor’s or TL's assistance can schedule an appointment through their Office Hour Calendar near the top of the online Course Materials page. 
 
 
 ### Academic Alerts 
@@ -265,11 +257,21 @@ While I understand that this syllabus is a living document that may change, I al
 
 Print name 
 
-
-
+.
+.
+.
+. 
 
 Signature
 
-
+.
+.
+.
+. 
 
 Date
+
+.
+.
+.
+. 
