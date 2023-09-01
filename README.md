@@ -37,7 +37,7 @@ Day & Time | Content |
 
 Occasionally, one of these weekly tasks will be omitted, in which case I will be sure to let you know. As we move into project work later in the semester, we will have fewer small assignments. We will also have dedicated time for local package installment, rather than a discussion, on October 6.
 
-Find a detailed schedule of topics and deadlines with links to upcoming assignments [here](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/schedule.md). 
+Find a detailed schedule of topics and deadlines with links to upcoming assignments [here](https://docs.google.com/spreadsheets/d/13tx5ODNznegKU2hTxrae9C99YGDs64Q_XN8KiajFftg/edit?usp=sharing). 
 
 ### Timed Assessments
 
