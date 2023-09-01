@@ -7,7 +7,7 @@ Morgan Green <br>
 mgreen@allegheny.edu <br>
 Alden Hall, #209
 
-I respond to emails within 1 business day. 
+I respond to emails within one business day. 
 
 ## Helpful Resources
 
