@@ -22,7 +22,7 @@ In Python, variables are assigned using the following syntax:
 ```
 variable_name = variable_value
 ```
-Even if you’ve never coded before, you might be familiar with the concept of a variable from taking algebra in school. In this exercise, variables hold values, just like in algebra; however, the variables below hold text rather than numbers.
+Even if you’ve never coded before, you might be familiar with the concept of a variable from taking algebra in school. In the demo below, variables hold values, just like in algebra; however, the variables below hold text rather than numbers.
 
 so... 
   
