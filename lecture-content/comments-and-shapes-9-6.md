@@ -55,17 +55,30 @@ Variables are useful not just for storing these shapes so that we can maniupate 
 row_y = 5 #establishes y coordiante for row of shapes
 row_z = 0 #establishes z coordinate for row of shapes
 
+#note we haven't written a variable for x, and that is because different shapes will 
+#have different x coordinates
+#if they all had all three coordinates the same, they would sit right on top of each other!
+
+#BOX EXAMPLE
 brick = box() #draws a box and stores it in variable "brick"
-brick.pos = vector(-2, row_y, row_z) #sets the position of brick
+brick.pos = vector(-4, row_y, row_z) #sets the position of brick
 brick.size = vector(2, 2, 2) #sets the length, height, and width of brick
 
+#SPHERE EXAMPLE
 ball = sphere() #draws a sphere and stores it in variable "ball"
-ball.pos = vector(1, row_y, row_z) #sets the position of ball
+ball.pos = vector(-1, row_y, row_z) #sets the position of ball
 ball.radius = 1 #sets the radius of ball
 
+#PYRAMID EXAMPLE
 pyr = pyramid() #draws a pyramid and stores in variable "pyr"
-pyr.pos = vector(3, row_y, row_z) #sets the position of pyr
+pyr.pos = vector(1, row_y, row_z) #sets the position of pyr
 pyr.size = vector(3, 3, 2) #sets the length, height, and width of pyr
+
+#TEXT EXAMPLE
+#draws the phrase 'text' (to change the text, change the content in red quotes)
+txt = text(text = "text")
+#positions the text
+txt.pos = vector(4, row_y, row_z)
 
 
 ```
