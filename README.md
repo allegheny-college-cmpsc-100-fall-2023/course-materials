@@ -16,13 +16,14 @@ I respond to emails within one business day.
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP) 
   Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accommodated. 
 - [Schedule with Assignment Links](https://docs.google.com/spreadsheets/d/13tx5ODNznegKU2hTxrae9C99YGDs64Q_XN8KiajFftg/edit?usp=sharing) You must be logged in to your Allegheny Google account to view this
-- [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
- -[Video Demos](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW)
+- [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time!
+- [Video Demos](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW)
  
 
 ### Coding References
 
 - [W3Schools: Python](https://www.w3schools.com/python/)
+- [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
 
 ## Weekly Classes and Deadlines
 
