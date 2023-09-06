@@ -17,11 +17,11 @@ I respond to emails within one business day.
   Please book office hours at least 12 hours in advance to guarantee a spot. Walk-ins may or may not be accommodated. 
 - [Schedule with Assignment Links](https://docs.google.com/spreadsheets/d/13tx5ODNznegKU2hTxrae9C99YGDs64Q_XN8KiajFftg/edit?usp=sharing) You must be logged in to your Allegheny Google account to view this
 - [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time! 
- <!-- -[Lecture Materials + Video Demos]([add link!!](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW?usp=drive_link)) -->
+ -[Video Demos](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW)
+ 
 
 ### Coding References
 
-- [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
 - [W3Schools: Python](https://www.w3schools.com/python/)
 
 ## Weekly Classes and Deadlines
