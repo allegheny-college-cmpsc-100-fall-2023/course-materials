@@ -49,6 +49,12 @@ small_ball.pos.x = 20 #changes small_ball's position along the x axis
 
 ...the small ball would move right by 10 units. (Note that generally Python renders in order from top to bottom, so whichever position is last in the code is the position we will see on the screen.)
 
+When it comes to drawing 3D text, the protocol is a little different. You need something called a keyword argument, which we'll learn more about later, but just note that text objects should be declared as follows:
+
+```
+txt = text(text = "your text here!")
+```
+
 Variables are useful not just for storing these shapes so that we can maniupate them. They are also useful for if we want to use the same value a bunch of times, especially if that value may change. Like let's say you knew you wanted all your shapes to sit neatly a row, but you wanted flexibility on where that row was positioned. You could write code something like this. 
 
 ```
