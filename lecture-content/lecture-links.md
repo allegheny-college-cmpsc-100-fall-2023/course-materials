@@ -3,8 +3,8 @@
 ## Scaling and Text Shapes with Variables, User Input
 ### September 11, 2023
 - [Code Demo on Trinket](https://trinket.io/glowscript/d318beb69e)
-- [Scaling with Variables](https://drive.google.com/file/d/12aph-l_PkFhmHhlIQKySqdkZGlc4teur/view?usp=sharing), coding demo recording (cuts off prematurely)
-- [User Input & Console](https://drive.google.com/file/d/1YHQEhsCR_3tzmNn0uMzYB7FdipkbBThn/view?usp=drive_link), coding demo recording (cuts off prematurely)
+- [Scaling with Variables video](https://drive.google.com/file/d/12aph-l_PkFhmHhlIQKySqdkZGlc4teur/view?usp=sharing), coding demo recording (cuts off prematurely)
+- [User Input & Console video](https://drive.google.com/file/d/1YHQEhsCR_3tzmNn0uMzYB7FdipkbBThn/view?usp=drive_link), coding demo recording (cuts off prematurely)
 
 ## Code Comments and Shapes
 ### September 6, 2023
