@@ -8,13 +8,13 @@
 
 ## Code Comments and Shapes
 ### September 6, 2023
--[Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/comments-and-shapes-9-6.md)
--[Code Demo on Trinket | Shapes ](https://trinket.io/library/trinkets/b21ce9cf3f)
--[Code Demo on Trinket | Comments ](https://trinket.io/library/trinkets/57855f87ee)
+- [Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/comments-and-shapes-9-6.md)
+-[ Code Demo on Trinket | Shapes ](https://trinket.io/library/trinkets/b21ce9cf3f)
+- [Code Demo on Trinket | Comments ](https://trinket.io/library/trinkets/57855f87ee)
 
 ## Getting Strated with Variables
 ### September 4, 2023
--[Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/variables-getting-started-9-4-23.md)
+- [Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/variables-getting-started-9-4-23.md)
 
 
 
