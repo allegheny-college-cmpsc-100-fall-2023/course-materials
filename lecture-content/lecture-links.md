@@ -1,5 +1,11 @@
 # Links to Lecture Content
 
+## Working with Color
+### September 13, 2023
+<a rel="noreferrer noopener" href="https://art151.rarelyasked.com/february-9-slides/which/" data-type="page" data-id="511" target="_blank">Which?</a><br><a rel="noreferrer noopener" href="http://Interaction of Color PDF" target="_blank">http://Interaction of Color PDF</a><br> <a href="https://art151.rarelyasked.com/february-9-slides/most-relative/" data-type="page" data-id="518">Most relative</a><br><a rel="noreferrer noopener" href="https://art151.rarelyasked.com/february-9-slides/interaction-excerpt/" data-type="page" data-id="501" target="_blank">Interaction, excerpt</a><br><a rel="noreferrer noopener" href="https://art151.rarelyasked.com/january-26-slides/variables-language/" data-type="page" data-id="390" target="_blank">Variables &amp; Language</a><br><a rel="noreferrer noopener" href="https://art151.rarelyasked.com/february-9-slides/writing-your-own-functions-2/" data-type="page" data-id="498" target="_blank">What counts</a></p>
+
+
+
 ## Scaling and Text Shapes with Variables, User Input
 ### September 11, 2023
 - [Code Demo on Trinket](https://trinket.io/glowscript/d318beb69e)
