@@ -21,4 +21,23 @@ Different words and symbols can have different meanings for different people. Th
 ## Color Tools
 
 - [Adobe Color](https://color.adobe.com/)
-- 
+- [Munsell Color System](https://pteromys.melonisland.net/munsell/)
+- To convert RGB 256 colors to VPython vector colors
+```
+#colors encoded in 256 color RBG format
+#(a format very commonly found onlin3)
+r256 = 	0
+g256 = 163
+b256 = 108
+
+#convert from 256 color scheme to 0-1
+r1 = r256/255
+g1 = g256/255
+b1 = b256/255
+
+t = pyramid() #draw pyramid
+#color pyramid using converted colors
+t.color = vector(r1, g1, b1) 
+
+```
+This example colors a pyramid a jade hue. [See the example on trinket.](https://trinket.io/library/trinkets/44eaa525a0) 
