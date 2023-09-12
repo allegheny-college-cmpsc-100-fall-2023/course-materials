@@ -2,9 +2,7 @@
 
 ## Working with Color
 ### September 13, 2023
-<a rel="noreferrer noopener" href="https://art151.rarelyasked.com/february-9-slides/which/" data-type="page" data-id="511" target="_blank">Which?</a><br><a rel="noreferrer noopener" href="http://Interaction of Color PDF" target="_blank">http://Interaction of Color PDF</a><br> <a href="https://art151.rarelyasked.com/february-9-slides/most-relative/" data-type="page" data-id="518">Most relative</a><br><a rel="noreferrer noopener" href="https://art151.rarelyasked.com/february-9-slides/interaction-excerpt/" data-type="page" data-id="501" target="_blank">Interaction, excerpt</a><br><a rel="noreferrer noopener" href="https://art151.rarelyasked.com/january-26-slides/variables-language/" data-type="page" data-id="390" target="_blank">Variables &amp; Language</a><br><a rel="noreferrer noopener" href="https://art151.rarelyasked.com/february-9-slides/writing-your-own-functions-2/" data-type="page" data-id="498" target="_blank">What counts</a></p>
-
-
+- [Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/color-september-13.md)
 
 ## Scaling and Text Shapes with Variables, User Input
 ### September 11, 2023
@@ -21,6 +19,7 @@
 ## Getting Strated with Variables
 ### September 4, 2023
 - [Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/variables-getting-started-9-4-23.md)
+- [Munsell Color System]
 
 
 
