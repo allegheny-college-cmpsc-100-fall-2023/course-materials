@@ -7,7 +7,7 @@
 - [Interaction of color | Plate IV-I](https://codepen.io/noraspice/full/aOggPw)
 - [different reds](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/e11c7818-268d-4bfb-b9f1-3e5e4824b90e)
 
-## Variables and Perceptions 
+## Variables and Perception
 
 A variable is a symbol/placeholder for a value that may change.
 
