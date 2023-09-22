@@ -79,13 +79,15 @@ Frustration is part of it. Inside confusion lie the seeds of understanding. The 
 Students who earn a C or better in this course will achieve the following objectives: 
 
 #### Scientific Process (SP)
-- Apply foundational Python language concepts to writing programs that generate visual and text outputs
-- Use VSCode, git, and GitHub to develop, version, and release code consistent with industry-standard practices
 
+- Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems
+- Release code consistent with industry-standard practices using professional grade IDEs, command line tools, and version control tools.
+- Analyze and suggest revisions to existing Python language code to improve or add functionality
 
 #### Modes of Expression (ME)
-- Conceptualize and execute original interactive, animated, and three-dimensionally rendered screen-based projects using Python
-- Begin developing a personal sense of investment in computer programming projects through written ideation and reflection i.e. begin to form clear objectives for writing code within a greater context, and reflect on how your code achieves those objectives
+
+- Evaluate the practical and ethical implications of writing computer code and discuss the contexts, perceived effects, and impacts exerted on and by computer code as a cultural force or artifact
+- Design, describe, and implement original projects incorporating standard practices and Python language principles
 
 ## Required materials
 
@@ -133,7 +135,7 @@ If you fail even one P&E category, the highest grade you can receive in the cour
 
 To receive a checkmark for attendance and participation, you will have to complete each of the following:  
 
-- Attend at least 80% of lecture sessions
+- Attend at least 80% of lecture sessions (if you are late, it will count as 2/3 of a session)
 - Attend at least 80% of lab sessions
 - Speak in 10 or more class sessions (this can include sharing work, asking questions, answering questions, and participating in discussions). I might call on you or ask what you think during a class session, and this will count. 
 - Share at least one lab assignment and one coding exercise with the class. Your exercise shares will be casual. Lab shares will be a bit more polished. You can choose which lab you share, but we may have limited slots for each lab. 
@@ -155,7 +157,9 @@ We will have an in-class exercise during almost every lecture session. To receiv
 - Submit an attempt for at least 80% of in-class exercises
 - Pass at least 50% of in-class exercises
   
-To pass an exercise, you should submit a first attempt by the initial deadline. You will have one week after that initial deadline to submit a passing attempt. If you don't submit it by the deadline, you should still attempt the exercise to get submission credit. 
+If you submit a first attempt at an exercise by the deadline, and submit a passing attempt within one week of the deadline, you will receive full points toward both submission and pass percentage. 
+
+If you submit a first attempt late, but within one week of the deadline, it will count as 1/2 of an assignment toward your submission percentage. If your first attempt was late but you submit a passing attempt within two weeks of the deadline, it will count as 1/2 of an assignment toward your passing percentage. 
 
 Exercises will be automatically graded using GatorGrade. If you think GatorGrade has made a mistake, contact me. 
 
@@ -172,7 +176,7 @@ To receive a checkmark for this section, you should:
 To receive a checkmark for this section, you should:
 
 - Complete reflection objectives for at least 80% of lab and project assignments, and for your final project. Reflection objectives might include reflection on coding goals, conceptual goals, aesthetic goals and teamwork. 
-- Successfully complete at least 80% of weekly discussion assignments. 
+- Successfully complete at least 80% of weekly discussion assignments. To receive full credit for a discussion, turn it in on time with all stated discussion objectives completed (objectives will be included in assignment prompt). Assignments turned in late will count as half an assignment toward your discussion percentage. Unlike with exercises and individual labs, I will evaluate each discussion assignment only once. 
 
 ## Python Fundamentals 
 
