@@ -32,7 +32,7 @@
 ## Getting Strated with Variables
 ### September 4, 2023
 - [Lecture Notes](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/variables-getting-started-9-4-23.md)
-- [Munsell Color System]
+
 
 
 
