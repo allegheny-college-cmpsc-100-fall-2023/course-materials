@@ -1,5 +1,11 @@
 # Links to Lecture Content
 
+## For loops and lists
+### September 25, 2023
+- [For loops and Lists video demo](https://drive.google.com/file/d/1TvXUjscYRcOeUtSHwrRz_msQJpYSMxx4/view?usp=drive_link)
+- [For loops and lists demo Trinket, Python](https://trinket.io/library/trinkets/cc7bf4abcb)
+- [For loops and lists demo Trinket, VPython](https://trinket.io/glowscript/60339b2396)
+
 ## While Loops with Modulus
 ### September 20, 2023
 - [While Modulus demo with color](https://trinket.io/library/trinkets/47ebd95f6a)
