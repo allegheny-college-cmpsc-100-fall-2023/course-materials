@@ -1,5 +1,11 @@
 # Links to Lecture Content
 
+## For loops and lists cont'd
+### September 27, 2023
+#### New functions include `random()`, `floor()`, `ceil()`, and `apppend()`
+- [Video demo](https://drive.google.com/file/d/1Jkr8uISfPakpVughE3rFc9fLknmK8i_N/view?usp=drive_link)
+- [Demo Trinket](https://trinket.io/glowscript/1eb4cf8d51)
+
 ## For loops and lists
 ### September 25, 2023
 - [For loops and Lists video demo](https://drive.google.com/file/d/1TvXUjscYRcOeUtSHwrRz_msQJpYSMxx4/view?usp=drive_link)
