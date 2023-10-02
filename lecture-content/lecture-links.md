@@ -1,5 +1,12 @@
 # Links to Lecture Content
 
+# If-else statements
+### October 2, 2023
+- [Video demo](https://drive.google.com/file/d/1elqi5RGD0vEgBTji9rDTeNJCFycU2P99/view)
+- [Python demo trinket](https://trinket.io/python/e9ee60c783)
+- [User input demo tirnket](https://trinket.io/glowscript/1b0eff1b93)
+- [Row of shapes demo trinket](https://trinket.io/glowscript/3854590faf)
+
 ## For loops and lists cont'd
 ### September 27, 2023
 #### New functions include `random()`, `floor()`, `ceil()`, and `apppend()`
