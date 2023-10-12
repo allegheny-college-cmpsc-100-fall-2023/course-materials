@@ -11,3 +11,7 @@
 | [input-to-text](https://classroom.github.com/a/jFzZ-fAX) | 
 | [internet-color](https://classroom.github.com/a/Ji2_ZjjQ) | 
 | [mod-patterns](https://classroom.github.com/a/Ou8wl27D) | 
+| [for-loop-list-poem](https://classroom.github.com/a/Ou8wl27D) | 
+| [list-times-two](https://classroom.github.com/a/Ou8wl27D) | 
+| [rolling-ball](https://classroom.github.com/a/azAqr-wX) |
+| [super-basic-chatbot](https://classroom.github.com/a/8xzH-VuP)| 
