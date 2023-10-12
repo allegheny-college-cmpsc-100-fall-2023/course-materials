@@ -1,5 +1,10 @@
 # Links to Lecture Content
 
+# Data types and if-else statements
+### October 4, 2023
+- [Video demo](https://drive.google.com/file/d/1F0NbiqA1mnLe6jwcNT6FuzxyvUJQFbv3/view?usp=drive_link)
+- [Python demo trinket](https://trinket.io/python/b123492800)
+
 # If-else statements
 ### October 2, 2023
 - [Video demo](https://drive.google.com/file/d/1elqi5RGD0vEgBTji9rDTeNJCFycU2P99/view)
