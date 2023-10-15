@@ -1,6 +1,6 @@
 # Class Glossary
 
-**arguments** An argument is the value that are sent to the function when it is called. [More here](https://www.w3schools.com/python/gloss_python_function_arguments.asp#:~:text=The%20terms%20parameter%20and%20argument,function%20when%20it%20is%20called.)
+**arguments** Argumetns are the values that are sent to the function when it is called. [More here](https://www.w3schools.com/python/gloss_python_function_arguments.asp#:~:text=The%20terms%20parameter%20and%20argument,function%20when%20it%20is%20called.)
 
 **command line interace (CLI)**  A user interface in which the user interacts with the computer through lines of text instead of graphical images.
 
