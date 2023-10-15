@@ -19,6 +19,8 @@ I respond to emails within one business day.
 - [Technical Leader directory (with office hours)](https://www.cs.allegheny.edu/teaching/technicalleaders/) Note that your TLs are not on-call. Please respect their time!
 - [Lecture Notes & Links](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/lecture-links.md)
 - [Video Demos](https://drive.google.com/drive/folders/11bQUhJK7oowxxrvK9MADsaD2rrZHyyOW)
+- [Content Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdtiycWEVN7SIBkVNQMJNfV_WTR9NE161pJsx3GP1n9094HuA/viewform?usp=sf_link)
+- [Course Glossary](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/class-glossary.md)
  
 
 ### Coding References
