@@ -1,4 +1,4 @@
-# Thank you for fillout the course feedback survey!
+# Thank you for filling out the course feedback survey!
 
 ## Your feedback means a lot, and I am responding with the following actions
 
