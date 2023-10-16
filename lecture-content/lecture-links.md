@@ -1,11 +1,18 @@
 # Links to Lecture Content
 
-# Data types and if-else statements
+## Writing your own functions
+### October 16, 2023
+- [Test Study Guide](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/10.20-assessment-guide.md)
+- [Response to Course Feedback Survey](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/feedback-response.md)
+- [Online Lecture Recording](https://drive.google.com/file/d/1VlL-sjpRm6xFlYZg03kdjsUqW954Yjbs/view?usp=drive_link)
+- [Another video demo: writing functions with multiple arguments in VPython](https://drive.google.com/file/d/1eHGoe0s_te99IP4R3sf2iq2AlgYMON8Y/view?usp=drive_link) <-- might want to watch this instead when you goet to the Vpython section of the above video 
+
+## Data types and if-else statements
 ### October 4, 2023
 - [Video demo](https://drive.google.com/file/d/1F0NbiqA1mnLe6jwcNT6FuzxyvUJQFbv3/view?usp=drive_link)
 - [Python demo trinket](https://trinket.io/python/b123492800)
 
-# If-else statements
+## If-else statements
 ### October 2, 2023
 - [Video demo](https://drive.google.com/file/d/1elqi5RGD0vEgBTji9rDTeNJCFycU2P99/view)
 - [Python demo trinket](https://trinket.io/python/e9ee60c783)
