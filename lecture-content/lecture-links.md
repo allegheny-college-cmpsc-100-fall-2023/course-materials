@@ -3,6 +3,9 @@
 ## Functions with return statements
 ### October 18, 2023
 
+In lieu of live class, please watch the videos below and complete the exercise!
+The ghost video is an optional challenge for now, but may be a big help in our upcoming lab. 
+
 ### Lecture Content
 - Getting Started with Return Statements Demo: [Video](https://drive.google.com/file/d/1H3w1aeqjLrkO9rzd12F282WCJ1wZ3BW3/view?usp=share_link) | [Trinket](https://trinket.io/python/fa52a87ccd)
 
