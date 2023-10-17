@@ -10,12 +10,14 @@
 
 
 <img width="476" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/d8d2e22f-aa95-4bca-9310-9fc27ff813ce">
+
 ### Return a Stick Figure Demo
 - [Video](https://drive.google.com/file/d/1Qtyu2AhH2P3sObAaIAO7bvNUaafUL9rW/view?usp=sharing)
 - [Trinket](https://trinket.io/glowscript/355dfc8334)
 
 
 <img width="476" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/3b8bc361-2ad6-4ab4-baf7-56f54c1bd61e">
+
 ### Floating Ghost Challenge Demo
 - [Video](https://drive.google.com/file/d/1P_f4G5188m3aoqTCNbJ1EYe0duFG2Udv/view?usp=share_link)
 - [Trinket](https://trinket.io/glowscript/a9eb75c199)
