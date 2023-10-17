@@ -5,7 +5,10 @@
 - [Test Study Guide](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/10.20-assessment-guide.md)
 - [Response to Course Feedback Survey](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/feedback-response.md)
 - [Online Lecture Recording](https://drive.google.com/file/d/1VlL-sjpRm6xFlYZg03kdjsUqW954Yjbs/view?usp=drive_link)
-- [Another video demo: writing functions with multiple arguments in VPython](https://drive.google.com/file/d/1eHGoe0s_te99IP4R3sf2iq2AlgYMON8Y/view?usp=drive_link) <-- might want to watch this instead when you goet to the Vpython section of the above video 
+- [Greeting Demo Trinket](https://trinket.io/library/trinkets/f4ce84d89c)
+- [Eyeballs Demo Trinket](https://trinket.io/library/trinkets/397da89596)
+- [Another video demo: writing functions with multiple arguments in VPython](https://drive.google.com/file/d/1eHGoe0s_te99IP4R3sf2iq2AlgYMON8Y/view?usp=drive_link) <-- might want to watch this instead when you goet to the Vpython section of the above video
+- [Above Demo Trinket]([https://trinket.io/glowscript/d8d6c79868](https://trinket.io/library/trinkets/d8d6c79868))
 
 ## Data types and if-else statements
 ### October 4, 2023
