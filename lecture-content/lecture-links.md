@@ -21,6 +21,10 @@ The ghost video is an optional challenge for now, but may be a big help in our u
   - <img width="476" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/3b8bc361-2ad6-4ab4-baf7-56f54c1bd61e">
 
 - [Return exercise](https://classroom.github.com/a/4e3eF5ax) <- attempt due at 8pm!!
+
+### Lab Assignment
+
+- [Animated Pastiche Lab](https://classroom.github.com/a/387Nw1k7)
   
 ## Writing your own functions
 ### October 16, 2023
