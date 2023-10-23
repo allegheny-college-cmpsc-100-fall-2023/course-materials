@@ -6,7 +6,7 @@
 Lecture video coming soon. 
 
 HELPFUL RESOURCE: [Daniel Shiffman's Git and Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-[This video](https://youtu.be/yXT1ElMEkW8?t=280&feature=shared) is especially relevant to today's material. It's an older version of Github so the user interface looks a bit different, but the main functionalty remains the same.) 
+- [This video](https://youtu.be/yXT1ElMEkW8?t=280&feature=shared) is especially relevant to today's material. It's an older version of Github so the user interface looks a bit different, but the main functionalty remains the same.) 
 
 ## Functions with return statements
 ### October 18, 2023
