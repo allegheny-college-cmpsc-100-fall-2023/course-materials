@@ -194,11 +194,12 @@ Techniques used in group lab and project assignments can count toward your lab P
 | while loops | 2 | 2 |
 | for loops | 2 | 2 |
 | math & logic | 2 | 2 |
+| if-else | 2 | 2 |
 | functions | 2 | 2 |
 | return | 2 | 1 |
 | dictionaries | 1 | 1 |
-| classes | 1 | 1 |
-| methods | 1 | 1 |
+| classes & methods | 1 | 1 |
+
 
 Note that tools such as Github, git and VSCode are not explicitly evaluated; however, this use is implicit in the successful completion of other outcomes and may be evaluated in certain exercises. 
 
