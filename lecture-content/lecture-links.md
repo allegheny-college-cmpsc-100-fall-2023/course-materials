@@ -1,5 +1,11 @@
 # Links to Lecture Content
 
+## Clone, Commit, Push 
+### October 25, 2023
+- [Video Demo](https://drive.google.com/file/d/1iYUv0efqD9ejNy1F5qsNEnaFybYRRuwU/view?usp=sharing)
+- [Animated Pastiche Lab Assignment](https://classroom.github.com/a/387Nw1k7) due Sunday at 8pm
+- [Flesh Machines Discussion Assignment](https://github.com/allegheny-college-cmpsc-100-fall-2023/flesh-machines-discussion) due Friday before class
+
 ## Halloween Creatures: Git + Github, Mouse interaction & Textures
 ### October 23, 2023
 <img width="334" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/2c29dc95-9b72-43ad-88fb-aa082c814173">
