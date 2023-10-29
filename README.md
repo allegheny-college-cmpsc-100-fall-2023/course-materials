@@ -59,7 +59,7 @@ On five occasions, we will have a timed assessment instead of our regularly sche
 | --- |
 | Friday, September ~22~ 29, 10 AM |
 | Friday, October ~13~ 20, 10 AM |
-| Friday, November 3, 10 AM | 
+| Friday, November ~3~ 10, 10 AM | 
 | Friday, December 1, 10 AM | 
 | Wednesday, December 6, 2:30 PM |
 
