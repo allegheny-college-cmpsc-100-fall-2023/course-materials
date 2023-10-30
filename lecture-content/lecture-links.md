@@ -1,5 +1,14 @@
 # Links to Lecture Content
 
+## Click & Transform
+### October 27, 2023
+- [Click & Transform Assignment](https://classroom.github.com/a/ukwMDO7H)
+- [Video Demo](https://drive.google.com/file/d/19aGCCWLGNv5TDyK0qYVVdqBtqsr40C-A/view?usp=sharing)
+  - **You may need to hide close captions to see the code**
+  - Timecode 0:00, [Accessing and Cloning the Assignment Repo](https://drive.google.com/file/d/19aGCCWLGNv5TDyK0qYVVdqBtqsr40C-A/view?usp=sharing)
+  - Timecode 1:48, [Using `cd` to navigate among directories](https://drive.google.com/file/d/19aGCCWLGNv5TDyK0qYVVdqBtqsr40C-A/view?t=1m48s)
+  - Timecode 4:36, [Running python code and doing the assignment](https://drive.google.com/file/d/19aGCCWLGNv5TDyK0qYVVdqBtqsr40C-A/view?t=4m36s)
+
 ## Clone, Commit, Push 
 ### October 25, 2023
 - [Video Demo](https://drive.google.com/file/d/1iYUv0efqD9ejNy1F5qsNEnaFybYRRuwU/view?usp=sharing)
