@@ -5,7 +5,8 @@
 - Car Dictionary Demo
     - [Trinket](https://trinket.io/python/64ea487b45)
     - [Video](https://drive.google.com/file/d/1Sbqssnc-krZgO2SgcsmAI4sD6ls_NrnM/view?usp=sharing)
-- Video: [How to do problem set assignments](https://drive.google.com/file/d/1ZK_iiT4IGpd6iMwITer6zIvFEsFyVyK3/view?usp=sharing)
+- [Dictionaries Problem Set Assignment](https://classroom.github.com/a/OvJdzin3)
+    - Video: [How to do problem set assignments](https://drive.google.com/file/d/1ZK_iiT4IGpd6iMwITer6zIvFEsFyVyK3/view?usp=sharing)
 
 ## Click & Transform
 ### October 27, 2023
