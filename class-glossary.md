@@ -6,6 +6,8 @@
 
 **commit** Records changes to one or more files in your git repository. It's kind of like saving files, but can apply to multiple files in the repo at once. You can also always return to an old commit if you want to undo changes you've made since the commit. 
 
+**dictionary** Data type that consists of a collection of key-value pairs. Each key-value pair maps the key to its associated value. [More here](https://realpython.com/python-dicts/#:~:text=Dictionaries%20are%20Python's%20implementation%20of,key%20to%20its%20associated%20value.)
+
 **Integrated Development Environment (IDE)**  A software application that provides comprehensive facilities for software development. It may include a code editor, a CLI, a debugger etc. 
 
 **functions** Functions are "self contained" modules of code that accomplish a specific task. Functions usually "take in" data, process it, and "return" a result. Once a function is written, it can be used over and over and over again. Functions can be "called" from the inside of other functions. [More here](https://users.cs.utah.edu/~germain/PPS/Topics/functions.html#:~:text=Functions%20are%20%22self%20contained%22%20modules,the%20inside%20of%20other%20functions.)
