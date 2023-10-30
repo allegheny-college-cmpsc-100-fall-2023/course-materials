@@ -1,6 +1,6 @@
 # Links to Lecture Content
 
-## Dictionaries with Car Attributes
+## Dictionaries 
 ### October 30, 2023
 - Car Dictionary Demo
     - [Trinket](https://trinket.io/python/64ea487b45)
