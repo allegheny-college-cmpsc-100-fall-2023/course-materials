@@ -7,7 +7,8 @@
     - [Video](https://drive.google.com/file/d/1Sbqssnc-krZgO2SgcsmAI4sD6ls_NrnM/view?usp=sharing)
 - [Dictionaries Problem Set Assignment](https://classroom.github.com/a/OvJdzin3)
     - Video: [How to do problem set assignments](https://drive.google.com/file/d/1ZK_iiT4IGpd6iMwITer6zIvFEsFyVyK3/view?usp=sharing)
-
+- Helpful Resource: [W3Schools Dictionary](https://www.w3schools.com/python/python_dictionaries.asp)
+  
 ## Click & Transform
 ### October 27, 2023
 - [Click & Transform Assignment](https://classroom.github.com/a/ukwMDO7H)
