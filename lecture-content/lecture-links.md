@@ -1,5 +1,12 @@
 # Links to Lecture Content
 
+## Dictionaries with Car Attributes
+### October 30, 2023
+- Car Dictionary Demo
+    - [Trinket](https://trinket.io/python/64ea487b45)
+    - [Video](https://drive.google.com/file/d/1Sbqssnc-krZgO2SgcsmAI4sD6ls_NrnM/view?usp=sharing)
+- Video: [How to do problem set assignments](https://drive.google.com/file/d/1ZK_iiT4IGpd6iMwITer6zIvFEsFyVyK3/view?usp=sharing)
+
 ## Click & Transform
 ### October 27, 2023
 - [Click & Transform Assignment](https://classroom.github.com/a/ukwMDO7H)
