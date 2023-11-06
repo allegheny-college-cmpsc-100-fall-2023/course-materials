@@ -1,4 +1,7 @@
 # Links to Lecture Content
+## Classes & Methods
+- https://trinket.io/python/ef74e3accc
+- https://trinket.io/glowscript/7a7d4c3af6
 
 ## Dictionaries 
 ### October 30, 2023
