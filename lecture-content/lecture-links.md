@@ -1,5 +1,7 @@
 # Links to Lecture Content
+
 ## Classes & Methods
+### November 6, 2023
 - [MathNum demo trinket](https://trinket.io/python/ef74e3accc)
 - [StickFigure demo trinket](https://trinket.io/glowscript/7a7d4c3af6)
 - Unfortunately this week's video demo didn't record properly! Email professor if you would like it re-recorded. 
