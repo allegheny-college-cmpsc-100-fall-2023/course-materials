@@ -1,5 +1,10 @@
 # Links to Lecture Content
 
+## Bob Ross Data Visualization
+### November 8, 2023
+
+- [Video demo](https://drive.google.com/file/d/1i3vER2IIcSYVmGnV2JZoP3L0t7sjTybb/view?usp=sharing)
+
 ## Classes & Methods
 ### November 6, 2023
 - [MathNum demo trinket](https://trinket.io/python/ef74e3accc)
