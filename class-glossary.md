@@ -2,8 +2,7 @@
 
 **arguments** Arguments are the values that are sent to the function when it is called. [More here](https://www.w3schools.com/python/gloss_python_function_arguments.asp#:~:text=The%20terms%20parameter%20and%20argument,function%20when%20it%20is%20called.)
 
-**branches** A branch represents an independent line of development in Git. When you create a branch, it copies over your code from the branch you've been working on (usually th
-## Instructions e main or default branch). You then can switch into the new branch and make changes to it without worrying that it will affect the branch you've just copied. [Learn more here.](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)
+**branches** A branch represents an independent line of development in Git. When you create a branch,branches A branch represents an independent line of development in Git. When you create a branch, it copies over your code from the branch you've been working on (usually the main or default branch). You then can switch into the new branch and make changes to it without worrying that it will affect the branch you've just copied. 
 
 **command line interace (CLI)**  A user interface in which the user interacts with the computer through lines of text instead of graphical images.
 
