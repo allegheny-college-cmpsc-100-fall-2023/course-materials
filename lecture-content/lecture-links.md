@@ -1,5 +1,10 @@
 # Links to Lecture Content
 
+## Animating Together: Classes, Methods, Branches and PRs
+
+- [Video Demo 1](https://drive.google.com/file/d/1akCWvjSRB7PRIvVlFgMVYN2MLXN3UBhG/view?usp=sharing)
+- [Demo Repo](https://github.com/allegheny-college-cmpsc-100-fall-2023/collab-class-demo/)
+
 ## Bob Ross Data Visualization
 ### November 8, 2023
 
