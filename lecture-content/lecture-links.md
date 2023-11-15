@@ -4,6 +4,7 @@
 ### November 15, 2023
 
 - [Video Demo 1](https://drive.google.com/file/d/1akCWvjSRB7PRIvVlFgMVYN2MLXN3UBhG/view?usp=sharing)
+- [Video Demo 2](https://drive.google.com/file/d/1kJMpLltRd7nNrfw9ryGIh0RtCPJYF_RW/view?usp=sharing)
 - [Demo Repo](https://github.com/allegheny-college-cmpsc-100-fall-2023/collab-class-demo/)
 
 ## Bob Ross Data Visualization
