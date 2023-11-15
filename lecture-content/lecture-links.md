@@ -1,6 +1,7 @@
 # Links to Lecture Content
 
-## Animating Together: Classes, Methods, Branches and PRs
+## Animating Together: Classes, Methods, Local branches, and Pull Requests
+### November 15, 2023
 
 - [Video Demo 1](https://drive.google.com/file/d/1akCWvjSRB7PRIvVlFgMVYN2MLXN3UBhG/view?usp=sharing)
 - [Demo Repo](https://github.com/allegheny-college-cmpsc-100-fall-2023/collab-class-demo/)
