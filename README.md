@@ -114,10 +114,11 @@ This course relies on the GitHub, Discord, and Trinket. Your work will be assign
 
 ### End-of-semester updates
 
-A few updates to grading based on how the semester has gone. All of these should work in every students' favor:
+I have made a few updates to grading based on what I've observed throught the semester. All of these should work in every students' favor:
 - Because we have only done a couple of group assignments, teamwork is now part of the attendance and participation grade, which will be worth 4 points. If you get checkmarks for two or more of the following three: attendance, participation, and teamwork, you will get 4 points total (out of 20) toward your grade.
-- Because I have not been clear about the policy and its new, it is no longer the case that you will get a C or lower if you miss one P&E category. Your grade will simply reflect a total score out of 20, as detailed below.
-- If you receive all checks in a Python category for Tests but not Labs or Labs but not Tests, you will receive half a point toward that Python check. 
+- Because this policy is so new and I have not emphasized it substantially, it is no longer the case that you will get a C or lower if you miss one Participation & Expression checkmark. Your grade will simply reflect a total score out of 20, as detailed below.
+- If you receive the required checkmarks in a Python category for Tests but not Labs or Labs but not Tests, you will receive half a point toward that Python check. (Whereas before you needed all checks in both categories to get any point). 
+- Exercise shares are no longer required, as I haven't provided sufficient opportunities. 
 
 ### Evaluation criteria are subject to change, but those changes should always favor the student. 
 
