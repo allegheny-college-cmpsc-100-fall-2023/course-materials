@@ -1,0 +1,60 @@
+# Study Guide for Timed Assessment on December 1
+
+## Test Information 
+- The test will be available on Friday, December 4 at 10:00 AM. You will have until Monday, November 13 at 8:00 PM to complete it.
+- It's a good idea to start the test during class on Friday. I will not be available to answer questions on the test after that. 
+- You CANNOT turn in your test after 8pm on Monday, December 4. It is a good idea to add your Trinket right away so that whatever results you have are scraped at the end of the testing period.
+- Beyond asking me clarifying questions during classtime Friday, you CANNOT speak with ANY other human being on the test until two weeks after the deadline. If you do, it's likely I'll be able to tell (I have been looking at code daily for around a decade and it's easy for me to spot stuff), and there will be consequences — including possible loss of credit and honor code violation.
+- This test is meant to evaluate your proress toward the **Scienctific Process** course objective: Apply Python programming principles to execute and explain computer code that implements interactive, novel solutions to a variety of computable problems
+- You will still have more chances to fulfill many of the desired outcomes in this course even if you do poorly on the first three tests. By the same token, if you do well enough on the first four tests, you may have the option to skip the fifth test without consequences. 
+  
+> [!IMPORTANT]
+> - **You must document EVERY LINE of code with comments in order to get credit for the related objective. No exceptions.** This is because in an exam, unlike in a professional setting, understanding is more important than functionality. 
+> - If you'd like some support studying for your exam, you can [book an office hours appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP). You can also seek support from [technical leaders](https://www.cs.allegheny.edu/teaching/technicalleaders/). 
+
+## Demos to review
+
+### DIY Functions Demo, "Greetings" : [Trinket](https://trinket.io/library/trinkets/f4ce84d89c)
+
+### Getting Started with Return Statements Demo: [Video](https://drive.google.com/file/d/1H3w1aeqjLrkO9rzd12F282WCJ1wZ3BW3/view?usp=share_link) | [Trinket](https://trinket.io/python/fa52a87ccd)
+
+### Return a Stick Figure Demo: [Video](https://drive.google.com/file/d/1Qtyu2AhH2P3sObAaIAO7bvNUaafUL9rW/view?usp=sharing) | [Trinket](https://trinket.io/glowscript/355dfc8334)
+
+<img width="476" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/d8d2e22f-aa95-4bca-9310-9fc27ff813ce">
+
+### Timed Assessment #2 Solution: [Instructions](https://github.com/allegheny-college-cmpsc-100-fall-2023/sliding-wall-timed-assessment) | [Video](https://drive.google.com/file/d/1thuhZOU5Kd3eAgv-lcA_qNMg9ofSZXZ0/view?usp=drive_link) | [Trinket](https://trinket.io/glowscript/b552d57f2d)
+
+<img width="479" alt="image" src="https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/assets/8368413/2e0db054-449c-4a7d-9180-ba6120ddfbdf">
+
+### Another great resource for study is the [lecture content](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/lecture-links.md) from all of our classes so far. 
+
+Find the lecture content [here](https://github.com/allegheny-college-cmpsc-100-fall-2023/course-materials/blob/main/lecture-content/lecture-links.md).
+
+### It is also helpful to review exercises, which you can find in your [gradebook](https://classroom.github.com/a/aKQSfUVs). (Note that you can still complete missing exercises for partial credit!) 
+
+Try and understand each line of code! Try changing one thing at a time and see what the change produces. 
+
+
+
+### Here are some other resources you can use to study Python.
+
+| Resource |
+| --- |
+| [Trinket Python Tutorials](https://docs.trinket.io/getting-started-with-python#/welcome/where-we-ll-go) |
+| [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html) |
+| [W3Schools Python Tutorials](https://www.w3schools.com/python/) | 
+| [*Think Python*](https://greenteapress.com/thinkpython2/html/) |
+| [Socratica Python Video Series](https://www.youtube.com/watch?v=bY6m6_IIN94&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) |
+
+
+### More on how the test works
+
+The test will be in Github in the same format as most of our assignments, with the difference that you will not be able to update your code after the testing period is over, and you will not be able to see Gatorgrade checks. Github will pull your code wherever it is at the time of your last submission during the testing period. 
+
+The test will be "open-book," meaning that you can look things up online while you are working on the test. HOWEVER, I have designed the test such that there are no solutions readily available on Google. While you may be able to look up the different concepts on the test, I will be asking you to apply them in a unique way. Because the assessment has a limited window, it's in your best interest to study ahead of time. 
+
+The test will also be open enough that it is highly improbable that two students would write the same code, or even code that is very similar. 
+
+<strong>In order to get credit for the code on the test, you must document it appropriately with code comments.</strong> Write a comment explaining what every line of code is doing. See code demos as well as [this chapter from <em>Think Python</em>](https://greenteapress.com/thinkpython2/html/thinkpython2003.html#sec22) for examples of Code Comments.
+
+This test will include opportunities to get credit for **variables**, **math and logic**, **while-loops**, **for-loops**, **lists**, **if-else**, **functions**, **return**, **dictionaries**, **classes and methods**.  You will have additional chances to get these checkmarks on future tests, so don't worry if you don't get through all of them this time. However, if you didn't receive checkmarks on the last test, it is a good idea to put some effort into studying for this one. 
